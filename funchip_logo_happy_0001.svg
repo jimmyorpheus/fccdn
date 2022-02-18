@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="210px"
+	 height="160px" viewBox="0 0 210 160" enable-background="new 0 0 210 160" xml:space="preserve">
+<g id="Layer_1">
+	<line fill="none" stroke="#000000" stroke-width="3" x1="76.001" y1="150.834" x2="12" y2="150.834"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="198.667" y1="150.834" x2="134.667" y2="150.834"/>
+	<path fill="#5A98BA" stroke="#000000" stroke-width="3" d="M12,150.832c0,2.303-1.865,4.168-4.166,4.168
+		c-2.302,0-4.168-1.865-4.168-4.168c0-2.299,1.866-4.166,4.168-4.166C10.135,146.666,12,148.533,12,150.832z"/>
+	<path fill="#5A98BA" stroke="#000000" stroke-width="3" d="M206.333,150.832c0,2.303-1.865,4.168-4.166,4.168
+		c-2.301,0-4.166-1.865-4.166-4.168c0-2.299,1.865-4.166,4.166-4.166C204.468,146.666,206.333,148.533,206.333,150.832z"/>
+	<path fill="#EA825E" stroke="#000000" stroke-width="3" d="M79.126,38.333c15.626,0,36.458,0,52.083,0
+		c10.416,0,15.625,5.208,15.625,15.625c0,14.303,0,35.135,0,52.084c0,10.416-5.209,15.623-15.625,15.623
+		c-15.625,0-36.457,0-52.083,0c-10.417,0-15.625-5.207-15.625-15.623c0-16.949,0-37.783,0-52.084
+		C63.5,43.542,68.709,38.333,79.126,38.333z"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="3" cx="90.584" cy="69.584" r="10.417"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-width="3" cx="119.752" cy="69.584" r="10.417"/>
+	<circle fill="#5A98BA" stroke="#000000" stroke-width="3" cx="80.168" cy="9.167" r="4.167"/>
+	<circle fill="#5A98BA" stroke="#000000" stroke-width="3" cx="105.167" cy="9.168" r="4.167"/>
+	<circle fill="#5A98BA" stroke="#000000" stroke-width="3" cx="130.168" cy="9.168" r="4.166"/>
+	<circle fill="#5A98BA" stroke="#000000" stroke-width="3" cx="176" cy="55.001" r="4.167"/>
+	<circle fill="#5A98BA" stroke="#000000" stroke-width="3" cx="176" cy="80" r="4.167"/>
+	<circle fill="#5A98BA" stroke="#000000" stroke-width="3" cx="176" cy="105" r="4.167"/>
+	<circle fill="#5A98BA" stroke="#000000" stroke-width="3" cx="34.333" cy="55.001" r="4.167"/>
+	<circle fill="#5A98BA" stroke="#000000" stroke-width="3" cx="34.334" cy="80" r="4.167"/>
+	<circle fill="#5A98BA" stroke="#000000" stroke-width="3" cx="34.334" cy="105" r="4.167"/>
+	<circle fill="#5A98BA" stroke="#000000" stroke-width="3" cx="130.168" cy="150.834" r="4.166"/>
+	<path fill="#5A98BA" stroke="#000000" stroke-width="3" d="M84.335,150.832c0,2.303-1.866,4.168-4.166,4.168
+		c-2.302,0-4.168-1.865-4.168-4.168c0-2.299,1.866-4.166,4.168-4.166C82.468,146.666,84.335,148.533,84.335,150.832z"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="105.168" y1="38.333" x2="105.168" y2="13.334"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="130.167" y1="38.333" x2="130.167" y2="13.334"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="80.166" y1="38.333" x2="80.166" y2="13.334"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="63.5" y1="55" x2="38.5" y2="55"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="63.5" y1="80" x2="38.5" y2="80"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="63.5" y1="105" x2="38.5" y2="105"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="171.833" y1="55" x2="146.833" y2="55"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="171.833" y1="80" x2="146.833" y2="80"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="171.833" y1="105" x2="146.833" y2="105"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="80.166" y1="146.666" x2="80.166" y2="121.668"/>
+	<line fill="none" stroke="#000000" stroke-width="3" x1="130.167" y1="146.666" x2="130.167" y2="121.666"/>
+	<g id="pupilleft">
+		<path d="M124.918,69.586c0,2.758-2.238,4.997-4.998,4.997c-2.762,0-5.002-2.238-5.002-4.997c0-2.765,2.24-5.003,5.002-5.003
+			C122.679,64.583,124.918,66.821,124.918,69.586z"/>
+	</g>
+	<g id="pupilright">
+		<path d="M95.751,69.586c0,2.759-2.238,4.998-4.997,4.998c-2.764,0-5.003-2.239-5.003-4.998c0-2.766,2.239-5.002,5.003-5.002
+			C93.512,64.583,95.751,66.82,95.751,69.586z"/>
+	</g>
+</g>
+<g id="happymouth">
+	<g id="buntmund">
+		<path fill="none" stroke="#000000" stroke-width="3" d="M76.001,92.502c0,0,8.334,12.498,29.167,12.498
+			c20.834,0,29.166-12.498,29.166-12.498"/>
+	</g>
+</g>
+</svg>
